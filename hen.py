@@ -9,7 +9,7 @@
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
 # Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
+# Github         : https://github.com/heyeager                #
 # Facebook       : https://www.facebook.com/dulahz         #
 # Telegram       : https://t.me/DulLah                     #
 # Python version : 3.7++                                   #
