@@ -1,6 +1,6 @@
 # hendrimoonton
 
-INSTALL
+# install
 
 pkg update && pkg upgrade
 pkg install python git
